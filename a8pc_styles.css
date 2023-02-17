@@ -1,0 +1,48 @@
+body{
+	background-color: #fff7e6;
+	font-family: "sans-serif";
+	font-size: 100%; 
+}
+
+h2{ 
+	color: #664400; 
+}
+
+a:link { 
+	color: #0066ff; 
+}
+
+a:visited {
+	color: #996600; 
+}
+
+a:hover {
+	color: #d699ff;  
+}
+
+.stats{
+	color: #664400;
+	font-weight: 700;
+}
+
+.list{
+	color: #996600;
+}
+
+.name{
+	color: #805500; 
+	font-weight: 800;
+}
+
+div{
+	border: 5px solid gray;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-left:5px;
+	padding-bottom: 10px;
+}
+
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
